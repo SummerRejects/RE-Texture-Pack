@@ -8,6 +8,7 @@
 	 {"predicate": {"custom_model_data":1}, "model": "block/hammerflag"},
 	 {"predicate": {"custom_model_data":2}, "model": "block/beeflag"},
 	 {"predicate": {"custom_model_data":3}, "model": "block/prankflag"},
-	 {"predicate": {"custom_model_data":4}, "model": "block/techflag"}
+	 {"predicate": {"custom_model_data":4}, "model": "block/techflag"},
+	 {"predicate": {"custom_model_data":5}, "model": "block/bluepekit"}
 	]
    }
