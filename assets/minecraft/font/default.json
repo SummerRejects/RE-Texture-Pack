@@ -1,0 +1,17 @@
+{
+
+    "providers":[{
+  
+      "file":"custom/bee.png",
+  
+      "chars":[""],
+  
+      "ascent": 50,
+  
+      "height": 50,
+  
+      "type":"bitmap"
+  
+    }]
+  
+  }
