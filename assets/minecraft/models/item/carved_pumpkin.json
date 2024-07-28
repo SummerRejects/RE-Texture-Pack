@@ -12,7 +12,6 @@
 	 {"predicate": {"custom_model_data":5}, "model": "block/bluepekit"},
 	 {"predicate": {"custom_model_data":6}, "model": "block/yellowpekit"},
 	 {"predicate": {"custom_model_data":7}, "model": "block/redpekit"},
-	 {"predicate": {"custom_model_data":8}, "model": "block/greenpekit"},
-	 {"predicate": {"custom_model_data":9}, "model": "block/greenuni"}
+	 {"predicate": {"custom_model_data":8}, "model": "block/greenpekit"}
 	]
    }
