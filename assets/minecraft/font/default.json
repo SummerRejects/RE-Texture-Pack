@@ -12,6 +12,54 @@
   
       "type":"bitmap"
   
-    }]
+    }
+  
+    {
+  
+      "file":"custom/pc.png",
+  
+      "chars":["☠"],
+  
+      "ascent": 7,
+  
+      "height": 8,
+  
+      "type":"bitmap"
+  
+    }
+
+    {
+  
+      "file":"custom/hammer.png",
+  
+      "chars":["☮"],
+  
+      "ascent": 7,
+  
+      "height": 8,
+  
+      "type":"bitmap"
+  
+    }
+
+    {
+  
+      "file":"custom/whoopiecushion.png",
+  
+      "chars":["☯"],
+  
+      "ascent": 7,
+  
+      "height": 8,
+  
+      "type":"bitmap"
+  
+    }
+  
+
+  
+  ]
+
+    
   
   }
