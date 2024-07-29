@@ -4,7 +4,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"2": "block/tinted_glass",
-		"particle": "Sports Day Event/texture"
+		"particle": "block/tinted_glass"
 	},
 	"elements": [
 		{
