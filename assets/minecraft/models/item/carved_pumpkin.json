@@ -17,5 +17,7 @@
 	 {"predicate": {"custom_model_data":10}, "model": "block/board1"},
 	 {"predicate": {"custom_model_data":11}, "model": "block/maze"},
 	 {"predicate": {"custom_model_data":12}, "model": "block/steve"},
-	 {"predicate": {"custom_model_data":13}, "model": "gui/invisibleitem"}	]
+	 {"predicate": {"custom_model_data":13}, "model": "block/invisibleitem"}	
+	
+	]
    }
