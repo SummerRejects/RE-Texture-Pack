@@ -1,67 +1,93 @@
 {
 
-    "providers":[{
-  
-      "file":"custom/bee.png",
-  
-      "chars":[""],
-  
-      "ascent": 7,
-  
-      "height": 8,
-  
-      "type":"bitmap"
-  
-    },
-  
-    {
-  
-      "file":"custom/pc.png",
-  
-      "chars":["☠"],
-  
-      "ascent": 7,
-  
-      "height": 8,
-  
-      "type":"bitmap"
-  
-    },
+  "providers":[{
 
-    {
-  
-      "file":"custom/hammer.png",
-  
-      "chars":["☮"],
-  
-      "ascent": 7,
-  
-      "height": 8,
-  
-      "type":"bitmap"
-  
-    },
+    "file":"custom/bee.png",
 
-    {
-  
-      "file":"custom/whoopiecushion.png",
-  
-      "chars":["☯"],
-  
-      "ascent": 7,
-  
-      "height": 8,
-  
-      "type":"bitmap"
-  
-    },
+    "chars":[""],
 
-    {"type": "bitmap", "file": "minecraft:guis/pixel.png","ascent": -2000,"height": -3,"chars": ["七"]},
-        {"type": "bitmap", "file": "minecraft:guis/diamondxr/example.png","ascent": 13,"height": 139,"chars": ["ㇺ"]}
-  
+    "ascent": 7,
 
-  ]
+    "height": 8,
 
-    
+    "type":"bitmap"
+
+  },
+
+  {
+
+    "file":"custom/pc.png",
+
+    "chars":["☠"],
+
+    "ascent": 7,
+
+    "height": 8,
+
+    "type":"bitmap"
+
+  },
+
+  {
+
+    "file":"custom/hammer.png",
+
+    "chars":["☮"],
+
+    "ascent": 7,
+
+    "height": 8,
+
+    "type":"bitmap"
+
+  },
+
+  {
+
+    "file":"custom/whoopiecushion.png",
+
+    "chars":["☯"],
+
+    "ascent": 7,
+
+    "height": 8,
+
+    "type":"bitmap"
+
+  },
+
   
+  {
+
+    "file":"guis/pixel.png",
+
+    "chars":["七"],
+
+    "ascent": -2000,
+
+    "height": -3,
+
+    "type":"bitmap"
+
+  },
+
+  {
+
+    "file":"guis/diamondxr/example.png",
+
+    "chars":["ㇺ"],
+
+    "ascent": 13,
+
+    "height": 139,
+
+    "type":"bitmap"
+
   }
+
+
+]
+
+
+
+}
