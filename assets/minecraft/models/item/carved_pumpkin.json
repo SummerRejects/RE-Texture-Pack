@@ -22,7 +22,8 @@
 	 {"predicate": {"custom_model_data":15}, "model": "block/trophyone"},
 	 {"predicate": {"custom_model_data":16}, "model": "block/trophyinnit"},
 	 {"predicate": {"custom_model_data":17}, "model": "block/trophys"},
-	 {"predicate": {"custom_model_data":18}, "model": "block/trophyb"}
+	 {"predicate": {"custom_model_data":18}, "model": "block/trophyb"},
+	 {"predicate": {"custom_model_data":19}, "model": "block/shan"}
 
 	]
    }
