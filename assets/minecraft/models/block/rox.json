@@ -3,7 +3,7 @@
 	"parent": "builtin/entity",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "textures/block/bee",
+		"1": "block/bee",
 		"2": "block/rox",
 		"particle": "block/rox"
 	},
