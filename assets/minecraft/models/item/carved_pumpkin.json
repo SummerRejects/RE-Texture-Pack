@@ -24,7 +24,9 @@
 	 {"predicate": {"custom_model_data":17}, "model": "block/trophys"},
 	 {"predicate": {"custom_model_data":18}, "model": "block/trophyb"},
 	 {"predicate": {"custom_model_data":19}, "model": "block/shan"},
-	 {"predicate": {"custom_model_data":20}, "model": "block/roxplz2"}
+	 {"predicate": {"custom_model_data":20}, "model": "block/roxplz2"},
+	 {"predicate": {"custom_model_data":21}, "model": "block/autumn"}
+	
 
 	]
    }
