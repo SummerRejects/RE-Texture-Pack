@@ -4,8 +4,7 @@
 		"1": "block/Plankinnit",
 		"2": "block/alimer",
 		"3": "block/wool_colored_red_innit",
-		"4": "block/Black_Wool_innit",
-		"particle": "blocks/voxel_atlas"
+		"4": "block/Black_Wool_innit"
 	},
 	"elements": [
 		{
