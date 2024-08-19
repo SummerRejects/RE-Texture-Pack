@@ -27,8 +27,8 @@
 	 {"predicate": {"custom_model_data":20}, "model": "block/roxplz2"},
 	 {"predicate": {"custom_model_data":21}, "model": "block/autumn"},
 	 {"predicate": {"custom_model_data":23}, "model": "block/bex"},
-	 {"predicate": {"custom_model_data":24}, "model": "block/bry"}
-	
+	 {"predicate": {"custom_model_data":24}, "model": "block/bry"},
+	 {"predicate": {"custom_model_data":25}, "model": "block/piano"}	
 
 	]
    }
