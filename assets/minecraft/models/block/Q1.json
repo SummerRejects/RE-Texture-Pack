@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "block/CareersQs/Q1",
+		"particle": "block/CareersQs/Q1"
+	},
+	"elements": [
+		{
+			"from": [-0.1, 0, -11],
+			"to": [-0.1, 24, 29],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.6, 0, -11]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 6], "texture": "#0"},
+				"east": {"uv": [0, 0, 10, 6], "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 6], "texture": "#0"},
+				"west": {"uv": [0, 6, 10, 12], "texture": "#0"},
+				"up": {"uv": [0, 10, 0, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 10], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.24, 0.24, 0.24]
+		},
+		"head": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 0, 22.25],
+			"scale": [2, 2, 2]
+		}
+	}
+}
