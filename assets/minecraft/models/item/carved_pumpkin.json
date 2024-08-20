@@ -33,7 +33,8 @@
 	 {"predicate": {"custom_model_data":27}, "model": "block/posters2"},
 	 {"predicate": {"custom_model_data":29}, "model": "block/careersone"},
 	 {"predicate": {"custom_model_data":30}, "model": "block/careerstwo"},
-	 {"predicate": {"custom_model_data":31}, "model": "block/careersthree"}
+	 {"predicate": {"custom_model_data":31}, "model": "block/careersthree"},
+	 {"predicate": {"custom_model_data":32}, "model": "block/careersfour"}
 
 	]
    }
