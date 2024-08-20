@@ -30,7 +30,7 @@
 	 {"predicate": {"custom_model_data":24}, "model": "block/bry"},
 	 {"predicate": {"custom_model_data":25}, "model": "block/tray"},
 	 {"predicate": {"custom_model_data":26}, "model": "block/posters1"},
-	 {"predicate": {"custom_model_data":27}, "model": "block/posters2"},	
+	 {"predicate": {"custom_model_data":27}, "model": "block/posters2"},
 	 {"predicate": {"custom_model_data":28}, "model": "block/Q1"}
 	]
    }
