@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/CareersQs/Q1",
-		"particle": "block/CareersQs/Q1"
+		"0": "custom/Q1",
+		"particle": "custom/Q1"
 	},
 	"elements": [
 		{
