@@ -26,7 +26,7 @@
 		},
 		"head": {
 			"rotation": [0, -90, 0],
-			"translation": [2, 5, 44],
+			"translation": [2.5, 5, 44],
 			"scale": [4, 3.5, 3.5]
 		}
 	}
