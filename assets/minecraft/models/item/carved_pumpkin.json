@@ -36,6 +36,6 @@
 	 {"predicate": {"custom_model_data":31}, "model": "block/careersthree"},
 	 {"predicate": {"custom_model_data":32}, "model": "block/careersfour"},
 	 {"predicate": {"custom_model_data":33}, "model": "block/pboard"},
-	 {"predicate": {"custom_model_data":34}, "model": "block/d;board"}
+	 {"predicate": {"custom_model_data":34}, "model": "block/dlboard"}
 	]
    }
