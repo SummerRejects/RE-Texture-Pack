@@ -37,6 +37,6 @@
 	 {"predicate": {"custom_model_data":32}, "model": "block/careersfour"},
 	 {"predicate": {"custom_model_data":33}, "model": "block/pboard"},
 	 {"predicate": {"custom_model_data":34}, "model": "block/dlboard"},
-	 {"predicate": {"custom_model_data":34}, "model": "block/potionboard"}
+	 {"predicate": {"custom_model_data":35}, "model": "block/potionboard"}
 	]
    }
