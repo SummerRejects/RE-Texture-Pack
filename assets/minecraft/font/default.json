@@ -87,7 +87,7 @@
 
   {
 
-    "file":"minecraft:font/title.png",
+    "file":"custom/title.png",
 
     "chars":["\uE000"],
 
