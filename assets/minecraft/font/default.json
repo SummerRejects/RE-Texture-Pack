@@ -87,16 +87,13 @@
 
   {
 
-    "file":"font/title.png",
-
-    "chars":["\uE000"],
-
-    "ascent": 7,
-
-    "height": 256,
-
-    "type":"bitmap"
-
+    "type": "bitmap",
+    "file": "minecraft:font/title.png",
+    "height": 64,
+    "ascent": 0,
+    "chars": [
+        "\uE000" 
+      ]
   }
 
 
