@@ -89,7 +89,7 @@
 
     "file":"font/title.png",
 
-    "chars":["☃"],
+    "chars":["\uE000"],
 
     "ascent": 7,
 
