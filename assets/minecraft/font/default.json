@@ -83,6 +83,20 @@
 
     "type":"bitmap"
 
+  },
+
+  {
+
+    "file":"font/title.png",
+
+    "chars":["☃"],
+
+    "ascent": 7,
+
+    "height": 256,
+
+    "type":"bitmap"
+
   }
 
 
