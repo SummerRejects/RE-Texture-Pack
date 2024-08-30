@@ -54,37 +54,7 @@
 
     "type":"bitmap"
 
-  },
-
-  
-  {
-
-    "file":"guis/pixel.png",
-
-    "chars":["七"],
-
-    "ascent": -2000,
-
-    "height": -3,
-
-    "type":"bitmap"
-
-  },
-
-  {
-
-    "file":"guis/maze.png",
-
-    "chars":["ㇺ"],
-
-    "ascent": 13,
-
-    "height": 139,
-
-    "type":"bitmap"
-
   }
-
 
 ]
 
