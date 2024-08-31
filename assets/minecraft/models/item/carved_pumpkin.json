@@ -37,6 +37,10 @@
 	 {"predicate": {"custom_model_data":32}, "model": "block/careersfour"},
 	 {"predicate": {"custom_model_data":33}, "model": "block/pboard"},
 	 {"predicate": {"custom_model_data":34}, "model": "block/dlboard"},
-	 {"predicate": {"custom_model_data":35}, "model": "block/potionboard"}
+	 {"predicate": {"custom_model_data":35}, "model": "block/potionboard"},
+	 {"predicate": {"custom_model_data":36}, "model": "block/bbeeuni"},
+	 {"predicate": {"custom_model_data":37}, "model": "block/bbuni"},
+	 {"predicate": {"custom_model_data":38}, "model": "block/ppuni"},
+	 {"predicate": {"custom_model_data":39}, "model": "block/ccuni"}
 	]
    }
