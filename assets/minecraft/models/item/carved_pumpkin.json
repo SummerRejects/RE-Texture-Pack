@@ -9,6 +9,7 @@
 	 {"predicate": {"custom_model_data":2}, "model": "block/halloweenbanner"},
 	 {"predicate": {"custom_model_data":3}, "model": "block/cart"},
 	 {"predicate": {"custom_model_data":4}, "model": "block/tractor"},
-	 {"predicate": {"custom_model_data":5}, "model": "block/spooky"}
+	 {"predicate": {"custom_model_data":5}, "model": "block/spooky"},
+	 {"predicate": {"custom_model_data":6}, "model": "block/pumpkin1"}
 	]
    }
