@@ -5,6 +5,7 @@
 	},
 	
 	"overrides": [
-	 {"predicate": {"custom_model_data":1}, "model": "block/scarecrow"}
+	 {"predicate": {"custom_model_data":1}, "model": "block/scarecrow"},
+	 {"predicate": {"custom_model_data":1}, "model": "block/halloweenbanner"}
 	]
    }
