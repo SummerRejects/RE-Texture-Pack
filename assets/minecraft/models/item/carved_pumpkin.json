@@ -11,9 +11,9 @@
 	 {"predicate": {"custom_model_data":4}, "model": "block/tractor"},
 	 {"predicate": {"custom_model_data":5}, "model": "block/spooky"},
 	 {"predicate": {"custom_model_data":6}, "model": "block/mjpumpkin1"},
-	 {"predicate": {"custom_model_data":6}, "model": "block/mjpumpkin2"},
-	 {"predicate": {"custom_model_data":6}, "model": "block/sarahpumpkin2"},
-	 {"predicate": {"custom_model_data":6}, "model": "block/sarahpumpkin1"},
-	 {"predicate": {"custom_model_data":6}, "model": "block/bexpumpkin1"}
+	 {"predicate": {"custom_model_data":7}, "model": "block/mjpumpkin2"},
+	 {"predicate": {"custom_model_data":8}, "model": "block/sarahpumpkin2"},
+	 {"predicate": {"custom_model_data":9}, "model": "block/sarahpumpkin1"},
+	 {"predicate": {"custom_model_data":10}, "model": "block/bexpumpkin1"}
 	]
    }
