@@ -16,6 +16,7 @@
 	 {"predicate": {"custom_model_data":9}, "model": "block/sarahpumpkin1"},
 	 {"predicate": {"custom_model_data":10}, "model": "block/bexpumpkin1"},
 	 {"predicate": {"custom_model_data":11}, "model": "block/stevepumpkin"},
-	 {"predicate": {"custom_model_data":12}, "model": "block/shanpumpkin"}
+	 {"predicate": {"custom_model_data":12}, "model": "block/shanpumpkin"},
+	 {"predicate": {"custom_model_data":13}, "model": "block/repumpkin"}
 	]
    }
