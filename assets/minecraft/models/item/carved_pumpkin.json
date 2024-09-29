@@ -10,10 +10,10 @@
 	 {"predicate": {"custom_model_data":3}, "model": "block/cart"},
 	 {"predicate": {"custom_model_data":4}, "model": "block/tractor"},
 	 {"predicate": {"custom_model_data":5}, "model": "block/spooky"},
-	 {"predicate": {"custom_model_data":6}, "model": "block/pumpkin1"},
-	 {"predicate": {"custom_model_data":6}, "model": "block/pumpkin2"},
-	 {"predicate": {"custom_model_data":6}, "model": "block/pumpkin3"},
-	 {"predicate": {"custom_model_data":6}, "model": "block/pumpkin4"},
-	 {"predicate": {"custom_model_data":6}, "model": "block/pumpkin5"}
+	 {"predicate": {"custom_model_data":6}, "model": "block/mjpumpkin1"},
+	 {"predicate": {"custom_model_data":6}, "model": "block/mjpumpkin2"},
+	 {"predicate": {"custom_model_data":6}, "model": "block/sarahpumpkin2"},
+	 {"predicate": {"custom_model_data":6}, "model": "block/sarahpumpkin1"},
+	 {"predicate": {"custom_model_data":6}, "model": "block/bexpumpkin1"}
 	]
    }
