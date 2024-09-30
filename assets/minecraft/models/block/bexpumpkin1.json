@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
+		"0": "block/bexpumpkin",
 		"1": "block/pumpkin_top",
 		"2": "block/pumpkin_side",
-		"6": "block/pumpkin1",
-		"particle": "block/mjpumpkin2"
+		"particle": "block/bexpumpkin"
 	},
 	"elements": [
 		{
@@ -14,7 +14,7 @@
 				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#2"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#6"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
 			}
