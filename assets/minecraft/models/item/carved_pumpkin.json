@@ -17,6 +17,12 @@
 	 {"predicate": {"custom_model_data":10}, "model": "block/bexpumpkin1"},
 	 {"predicate": {"custom_model_data":11}, "model": "block/stevepumpkin"},
 	 {"predicate": {"custom_model_data":12}, "model": "block/shanpumpkin"},
-	 {"predicate": {"custom_model_data":13}, "model": "block/repumpkin"}
+	 {"predicate": {"custom_model_data":13}, "model": "block/repumpkin"},
+	 {"predicate": {"custom_model_data":14}, "model": "block/autumnpumpkin1"},
+	 {"predicate": {"custom_model_data":15}, "model": "block/autumnpumpkin2"},
+	 {"predicate": {"custom_model_data":16}, "model": "block/nyyroepumpkin"},
+	 {"predicate": {"custom_model_data":17}, "model": "block/capbeinpumpkin"},
+	 {"predicate": {"custom_model_data":18}, "model": "block/mjpumpkin3"},
+	 {"predicate": {"custom_model_data":19}, "model": "block/harrypumpkin"}
 	]
    }
