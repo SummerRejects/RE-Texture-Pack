@@ -1,10 +1,10 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench by SummerRejects",
 	"texture_size": [8, 8],
 	"textures": {
-		"6": "models:gifts/teddymain",
-		"7": "models:gifts/foot1teddy",
-		"8": "models:gifts/foot2teddy"
+		"6": "item/teddymain",
+		"7": "item/foot1teddy",
+		"8": "item/foot2teddy"
 	},
 	"elements": [
 		{
