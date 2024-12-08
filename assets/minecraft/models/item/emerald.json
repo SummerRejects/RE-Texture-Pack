@@ -6,7 +6,8 @@
 
   "overrides": [
     {"predicate": {"custom_model_data":1}, "model": "item/teddy"},
-    {"predicate": {"custom_model_data":2}, "model": "item/phone"}
+    {"predicate": {"custom_model_data":2}, "model": "item/phone"},
+    {"predicate": {"custom_model_data":3}, "model": "item/tbh"}
    ]
   }
   
