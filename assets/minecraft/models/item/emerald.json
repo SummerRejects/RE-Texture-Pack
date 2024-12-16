@@ -9,7 +9,8 @@
     {"predicate": {"custom_model_data":2}, "model": "item/phone"},
     {"predicate": {"custom_model_data":3}, "model": "item/tbh"},
     {"predicate": {"custom_model_data":4}, "model": "item/pig_duck"},
-    {"predicate": {"custom_model_data":5}, "model": "item/candy_cane"}
+    {"predicate": {"custom_model_data":5}, "model": "item/candy_cane"},
+    {"predicate": {"custom_model_data":6}, "model": "block/helecopter"}
    ]
   }
   
