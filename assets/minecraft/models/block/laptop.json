@@ -650,8 +650,8 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [0, 8.75, -32.25],
-			"scale": [4, 4, 4]
+			"translation": [0, 5, -16],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [
