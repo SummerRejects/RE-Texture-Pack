@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/Robutt",
-		"particle": "block/Robutt"
+		"0": "block/robutt",
+		"particle": "block/robutt"
 	},
 	"elements": [
 		{
