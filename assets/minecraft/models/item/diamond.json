@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/diamond"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":11}, "model": "item/teddy_recipe"},
+    {"predicate": {"custom_model_data":12}, "model": "item/phone_recipe"},
+    {"predicate": {"custom_model_data":13}, "model": "item/tbh_recipe"},
+    {"predicate": {"custom_model_data":14}, "model": "item/pig_duck_recipe"},
+    {"predicate": {"custom_model_data":15}, "model": "item/candy_cane_recipe"},
+    {"predicate": {"custom_model_data":16}, "model": "item/helecopter_recipe"},
+    {"predicate": {"custom_model_data":17}, "model": "item/laptop_recipe"}
+   ]
+  }

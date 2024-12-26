@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "minecraft:item/teddy_recipe",
+		"particle": "minecraft:item/teddy_recipe"
+	},
+	"elements": [
+		{
+			"from": [2, 5, 8],
+			"to": [16, 18, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 6, 8]},
+			"faces": {
+				"north": {"uv": [0, 0.09607, 8.42562, 16], "texture": "#1"},
+				"east": {"uv": [1.25, 0.25, 1.75, 0.75], "texture": "#missing"},
+				"south": {"uv": [2.25, 0.25, 2.75, 0.75], "texture": "#missing"},
+				"west": {"uv": [3.25, 0.25, 3.75, 0.75], "texture": "#missing"},
+				"up": {"uv": [4.25, 0.25, 4.75, 0.75], "texture": "#missing"},
+				"down": {"uv": [5.25, 0.25, 5.75, 0.75], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [170.16, 20.52, 179.37],
+			"translation": [0, 8, 0]
+		},
+		"fixed": {
+			"rotation": [-90.75, 0, 0],
+			"translation": [-8.25, 11.75, -16],
+			"scale": [2.96875, 2.76758, 1]
+		}
+	}
+}
