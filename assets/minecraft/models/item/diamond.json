@@ -11,7 +11,7 @@
     {"predicate": {"custom_model_data":33}, "model": "item/pig_duck_recipe"},
     {"predicate": {"custom_model_data":34}, "model": "item/candy_cane_recipe"},
     {"predicate": {"custom_model_data":35}, "model": "item/helecopter_recipe"},
-    {"predicate": {"custom_model_data":36}, "model": "item/laptop_recipe"},
+    {"predicate": {"custom_model_data":36}, "model": "item/laptopinnit_recipe"},
     {"predicate": {"custom_model_data":37}, "model": "item/train_recipe"},
     {"predicate": {"custom_model_data":38}, "model": "item/dice_recipe"},
     {"predicate": {"custom_model_data":39}, "model": "item/socks_recipe"},
