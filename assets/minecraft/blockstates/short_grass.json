@@ -1,22 +1,12 @@
 {
-  "variants": {
-    "": [
-      {
-        "model": "block/short_grass/grass",
-        "weight": 1
-      },
-      {
-        "model": "block/short_grass/grass_1",
-        "weight": 2
-      },
-      {
-        "model": "block/short_grass/grass_2",
-        "weight": 5
-      },
-      {
-        "model": "block/short_grass/grass_3",
-        "weight": 5
-      }
-    ]
-  }
+    "variants": {
+        "": [
+		{ "model": "block/short_grass" ,    		"weight": 1000},
+		{ "model": "block/grass_skull" ,    		"weight": 1},
+		{ "model": "block/grass_skull" , "y": 90 ,    	"weight": 1},
+		{ "model": "block/grass_skull" , "y": 180 ,   	"weight": 1},
+		{ "model": "block/grass_skull" , "y": 270 ,   	"weight": 1}
+
+	]
+    }
 }
