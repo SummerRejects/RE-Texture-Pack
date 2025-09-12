@@ -25,6 +25,7 @@
 	 {"predicate": {"custom_model_data":18}, "model": "block/mjpumpkin3"},
 	 {"predicate": {"custom_model_data":19}, "model": "block/harrypumpkin"},
 	 {"predicate": {"custom_model_data":20}, "model": "block/ghosty"},
-	 {"predicate": {"custom_model_data":21}, "model": "block/ring"}
+	 {"predicate": {"custom_model_data":21}, "model": "block/ring"},
+	 {"predicate": {"custom_model_data":22}, "model": "block/lewispumpkin1"}
 	]
    }
