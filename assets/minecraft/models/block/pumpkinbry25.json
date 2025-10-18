@@ -4,6 +4,7 @@
 	"textures": {
 		"1": "block/pumpkin_top",
 		"2": "block/pumpkin_side",
+		"3": "block/brypumkinfront",
 		"particle": "block/pumpkin_side"
 	},
 	"elements": [
@@ -14,7 +15,7 @@
 				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#2"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
 			}
