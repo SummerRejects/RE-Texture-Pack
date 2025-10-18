@@ -30,6 +30,6 @@
 	 {"predicate": {"custom_model_data":23}, "model": "block/zombrypumpkin"},
 	 {"predicate": {"custom_model_data":24}, "model": "block/pumpkinsarah25"},
 	 {"predicate": {"custom_model_data":25}, "model": "block/pumpkinbry25"},
-	 {"predicate": {"custom_model_data":25}, "model": "block/pumpkinbcnt25"}
+	 {"predicate": {"custom_model_data":26}, "model": "block/pumpkinbcnt25"}
 	]
    }
